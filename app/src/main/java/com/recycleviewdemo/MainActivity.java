@@ -19,6 +19,9 @@ import com.recycleviewdemo.bean.Data;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * RecycleView的简单实用
+ */
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView myRecyclerView;
