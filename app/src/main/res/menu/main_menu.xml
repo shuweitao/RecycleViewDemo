@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_list_h"
+        android:title="横向的list" />
+    <item
+        android:id="@+id/action_list_v"
+        android:title="纵向的list" />
+    <item
+        android:id="@+id/action_grid_h"
+        android:title="横向的grid" />
+    <item
+        android:id="@+id/action_grid_v"
+        android:title="纵向的grid" />
+    <item
+        android:id="@+id/action_staggered_h"
+        android:title="横向瀑布流" />
+    <item
+        android:id="@+id/action_staggered_v"
+        android:title="纵向瀑布流" />
+</menu>
