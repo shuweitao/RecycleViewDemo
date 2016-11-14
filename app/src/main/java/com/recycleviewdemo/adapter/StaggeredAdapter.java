@@ -19,6 +19,7 @@ import java.util.List;
 public class StaggeredAdapter extends RecyclerView.Adapter<StaggeredAdapter.StaggerdViewHolder> {
     private List<Data> mDatas;
 
+
     public StaggeredAdapter(List<Data> mDatas) {
         this.mDatas = mDatas;
     }
